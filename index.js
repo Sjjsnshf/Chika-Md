@@ -1,5 +1,5 @@
 /*
-› Create By @RIY
+› Create By @Chika
 › Base Ori @DikaArdnt
 › Kalau mau ubah/edit owner di settings.js
 › Edit text menu di file language › help.js
